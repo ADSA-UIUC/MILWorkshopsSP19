@@ -7,9 +7,11 @@ The goal of this workshop is to introduce the ABC's of Python, and an example of
 ## The outline of the workshop is as follows:
 
 > Introduce basic Python syntax in the intro_python_variables.ipynb notebook
->
+
 > Introduce basic Python data structures and conditionals in the intro_python_structures.ipynb notebook
->
+
 > Introduce functions and demonstrate a real-world application in the intro_python_applications.ipynb notebook
+
+A solution to the applications notebook can be found in the solutions folder.
 
 You will need [Python and Anaconda installed](https://medium.com/@jlroo/python-for-business-tutorial-8801c868db10) on your machine to partake in this workshop. If you are working on a MIL computer, these are already installed for you.
